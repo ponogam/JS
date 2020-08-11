@@ -1,0 +1,1 @@
+document.getElementById('list').style.height = document.getElementById('content_wrap').clientHeight - 200 + 'px';
