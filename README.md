@@ -9,6 +9,3 @@ npm install
 ```
 npm start
 ```
-
-
-Demo: http://ponogam.ru/js-test/
